@@ -1,3 +1,7 @@
 Gasolina98: 50000000L
 Keroseno: 2323598634432837L
-niquel
+
+Niquel:20676
+
+Diesel:598
+
